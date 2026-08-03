@@ -1,4 +1,4 @@
-# React Projects — shared code base
+<!-- # React Projects — shared code base
 
 A single React + Vite code base that hosts a series of projects. Each project
 lives in its own folder under `src/projects/` with its own components, hooks,
@@ -115,4 +115,4 @@ src/
 1. Create `src/projects/<name>/` with its own entry component.
 2. Register it in the `PROJECTS` array in `src/App.jsx`.
 
-The build, reset and design primitives are already shared.
+The build, reset and design primitives are already shared. -->
